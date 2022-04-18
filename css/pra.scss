@@ -1,0 +1,7 @@
+@function opo($n,$m){
+	@return $n+$m;
+}
+
+.box4{
+	width:opo(4px,6px);
+}
