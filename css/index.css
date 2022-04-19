@@ -1,0 +1,27 @@
+/*公共样式*/
+a {
+	color: #fff;
+	text-decoration: none;
+
+}
+a:hover {
+	color: #60B001;
+}
+.inner {
+	width: 980px;
+	margin: 0 auto;
+}
+.header {
+	height: 196px;
+	background-color: #080808;
+	overflow: hidden;
+}
+.header.logo {
+	float: left;
+	width: 397px;
+	height: 72px;
+	padding: 34px 0 0 30px;
+}
+.header .logo a{
+	display: 
+}
